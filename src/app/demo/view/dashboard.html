@@ -1,0 +1,52 @@
+
+<div class="ui-g dashboard">
+    <div id="listbox"  class="ui-g-12 ui-md-3"  >
+     <ul>
+       <li *ngFor="let rectangle of rectangles">
+{{rectangle.label}}
+
+       </li>
+     </ul>
+	  </div>
+ <div class="ui-g-12 ui-md-9">
+      <div styele="margin-right:20px; float:right"  [inlineSVG]="'/assets/layout/images/2D_b.svg'"></div>
+	  </div>
+	 
+</div>
+
+<div class="ui-g dashboard">
+     <div class="ui-g-12 ui-md-2"  >
+   {{ myDate3 | date:'yyyy-MM-dd'}}
+	
+	  </div>
+	
+    <div class="ui-g-12 ui-md-8"   >
+      <p-slider [(ngModel)]="val" [style]="{'width':'600px','margin':'auto'}"  [min]="0" [max]="27" (onChange)="handleChange($event)" ></p-slider>
+
+	 
+	  </div>
+ <div class="ui-g-12 ui-md-2"  >
+   
+	  {{ myDate4 | date:'yyyy-MM-dd'}} 
+	  </div>
+	 
+</div>
+
+
+<div class="ui-g dashboard">
+	<div class="ui-g-12 ui-md-4"  >
+
+     </div>
+     <div class="ui-g-12 ui-md-4" id="myDate"  >
+ {{ myDate | date:'yyyy-MM-dd'}} 
+     </div>
+	 <div class="ui-g-12 ui-md-4"  >
+
+     </div>
+</div>
+
+
+	 
+
+
+
