@@ -1,0 +1,269 @@
+<svg width="536px" height="513px"  viewBox="0 0 536 513">
+
+	
+	<rect id="rect12" x="157.974" y="421.259" fill="#23B78D" stroke="#231F20" stroke-miterlimit="10" width="104.045" height="58"/>
+	<text transform="matrix(1 0 0 1 90 453.9912)" font-family="'MyriadPro-Regular'" font-size="14">13</text>
+	<text transform="matrix(1 0 0 1 199 453.9912)" font-family="'MyriadPro-Regular'" font-size="14">12</text>
+	<rect id="rect11" x="262.02" y="422.06" fill="#DDDABC" stroke="#231F20" stroke-miterlimit="10" width="91.17" height="57.198"/>
+	<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="261.717" y1="430.985" x2="352.854" y2="431.493"/>
+	<rect x="292.221" y="417.063" fill="none" width="31.779" height="12.929"/>
+	
+		<rect id="randsq2" x="379.919" y="423.946" fill="#EABBBB" stroke="#000000" stroke-miterlimit="10" width="19.908" height="10.85"/>
+	
+		<rect id="rect56" x="292.221" y="417.063" fill="#AFC9B0" stroke="#000000" stroke-miterlimit="10" width="31.779" height="12.929"/>
+	<text transform="matrix(1 0 0 1 296.9268 427.9668)" font-family="'MyriadPro-Regular'" font-size="14">P11</text>
+	<text transform="matrix(1 0 0 1 299.6035 456.0596)" font-family="'MyriadPro-Regular'" font-size="14">11</text>
+	<path id="rect10" fill="#C1C1C1" stroke="#000000" stroke-miterlimit="10" d="M362.19,478.915c-2.037,0.32-2.325-0.648-2.3-2.504
+		c0.131-7.839,0.063-15.681,0.063-23.521c1.25-0.038,2.5-0.075,3.749-0.113c0.688-0.587,1.521-0.496,2.335-0.496
+		c17.006-0.004,34.011-0.006,51.017,0.005c0.981,0.001,2.045-0.146,2.728,0.863c0.229,0.563,0.277,1.159,0.244,1.765
+		c0.008,0.461,0.021,0.923,0.004,1.385c0.021,0.469,0,0.935,0.016,1.396c0.006,6.646,0.072,13.298-0.028,19.946
+		c-0.029,0.518-0.165,0.987-0.565,1.352c-0.66,0.468-1.425,0.42-2.175,0.42c-17.109-0.01-34.224,0.031-51.328-0.018
+		c-0.479,0.005-0.948,0.015-1.423-0.006C363.711,479.397,362.89,479.453,362.19,478.915z"/>
+	<rect id="rect9" x="426.752" y="407.753" fill="#18AA3E" stroke="#000000" stroke-miterlimit="10" width="57.95" height="70.92"/>
+	<text transform="matrix(1 0 0 1 451.7266 449.2129)" font-family="'MyriadPro-Regular'" font-size="14">9</text>
+	
+		<rect id="rect8" x="443.243" y="372.154" fill="#51360F" stroke="#000000" stroke-miterlimit="10" width="40.757" height="34.958"/>
+	<text transform="matrix(1 0 0 1 456.9883 396.9912)" font-family="'MyriadPro-Regular'" font-size="14">8</text>
+	
+		<rect id="rect46" x="470.95" y="379.992" fill="#A39090" stroke="#000000" stroke-miterlimit="10" width="22.076" height="20.962"/>
+	
+		
+			
+				<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="476.508" y1="390.759" x2="490.339" y2="390.759"/>
+			
+				<polygon points="483.135,398.938 484.499,397.474 477.275,390.761 484.499,384.046 483.135,382.581 474.339,390.761 				"/>
+			
+		
+	
+	<text transform="matrix(1 0 0 1 494.9551 394.998)" font-family="'MyriadPro-Bold'" font-size="14">OST 3</text>
+	
+		<rect id="rect7" x="427.059" y="324.857" fill="#8E8585" stroke="#000000" stroke-miterlimit="10" width="57.336" height="48.935"/>
+	<text transform="matrix(1 0 0 1 451.4316 352.5605)" font-family="'MyriadPro-Bold'" font-size="14">7</text>
+	<rect id="rect6" x="427.059" y="257.546" fill="#00A2E7" stroke="#000000" stroke-miterlimit="10" width="57.336" height="67"/>
+	<text transform="matrix(1 0 0 1 453.3438 292.0166)" font-family="'MyriadPro-Bold'" font-size="14">6</text>
+	
+		<circle id="rect30" fill="#B59191" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="390.779" cy="221.298" r="13.561"/>
+	
+		<rect x="390.521" y="202.034" fill="#65758E" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="22.051" height="18.716"/>
+	<text transform="matrix(1 0 0 1 393.6465 216.7197)" font-family="'MyriadPro-Bold'" font-size="14">IC</text>
+	
+		<circle id="rect29" fill="#698E68" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="390.012" cy="294.491" r="12.5"/>
+	
+		<circle id="rect28" fill="#283E99" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="388.995" cy="363.991" r="12.5"/>
+	
+		<rect x="389.751" y="271.768" fill="#7F6262" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="22.051" height="18.715"/>
+	<text transform="matrix(1 0 0 1 392.2832 285.8936)" font-family="'MyriadPro-Bold'" font-size="14">CC</text>
+	<rect x="381.266" y="303.022" fill="#FEFEFE" width="16.154" height="52.909"/>
+	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="381.018" y1="302.54" x2="381.063" y2="354.932"/>
+	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="398.988" y1="303.54" x2="399.032" y2="355.932"/>
+	
+		<rect id="rect5" x="427.059" y="209.435" fill="#A8A1A1" stroke="#000000" stroke-miterlimit="10" width="57.336" height="47.854"/>
+	<text transform="matrix(1 0 0 1 450.8613 239.249)" font-family="'MyriadPro-Bold'" font-size="14">5</text>
+	
+		<rect id="rect4" x="427.059" y="151.884" fill="#27726E" stroke="#000000" stroke-miterlimit="10" width="57.336" height="57.406"/>
+	<text transform="matrix(1 0 0 1 450.4287 183.8799)" font-family="'MyriadPro-Bold'" font-size="14">4</text>
+	<rect x="469.287" y="95.522" fill="#CCBCBC" stroke="#000000" stroke-miterlimit="10" width="16.223" height="16.876"/>
+	<rect x="470.891" y="119.574" fill="#858A8C" stroke="#000000" stroke-miterlimit="10" width="16.228" height="24.073"/>
+	
+		<rect id="rect47" x="474.54" y="101.895" fill="#194425" stroke="#000000" stroke-miterlimit="10" width="22.076" height="20.962"/>
+	
+		
+			
+				<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="480.098" y1="112.662" x2="493.929" y2="112.662"/>
+			
+				<polygon points="486.725,120.843 488.089,119.377 480.865,112.664 488.089,105.949 486.725,104.484 477.929,112.664 				"/>
+			
+		
+	
+	<text transform="matrix(1 0 0 1 498.5449 116.9014)" font-family="'MyriadPro-Bold'" font-size="14">OST2</text>
+	<rect id="rect3" x="425.641" y="96.59" fill="#C4BFBF" stroke="#000000" stroke-miterlimit="10" width="36.449" height="54"/>
+	<text transform="matrix(1 0 0 1 442.3682 126.8252)" font-family="'MyriadPro-Bold'" font-size="14">3</text>
+	<rect id="rect2" x="361.06" y="97.268" fill="#9B8219" stroke="#000000" stroke-miterlimit="10" width="57.07" height="54"/>
+	<text transform="matrix(1 0 0 1 384.9199 125.9912)" font-family="'MyriadPro-Bold'" font-size="14">2</text>
+	<rect id="rect1" x="374.015" y="6.957" fill="#2F7C1C" stroke="#000000" stroke-miterlimit="10" width="110.313" height="82.129"/>
+	<rect x="412.893" y="72.158" fill="#616A6D" stroke="#000000" stroke-miterlimit="10" width="22.076" height="21.771"/>
+	
+		
+			
+				<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="424.591" y1="89.875" x2="424.591" y2="76.044"/>
+			
+				<polygon points="432.771,83.248 431.306,81.884 424.593,89.108 417.878,81.884 416.413,83.248 424.593,92.044 				"/>
+			
+		
+	
+	<text transform="matrix(1 0 0 1 399.0098 68.9912)" font-family="'MyriadPro-Bold'" font-size="14">NORD 3</text>
+	<text transform="matrix(1 0 0 1 425.9346 46.9912)" font-family="'MyriadPro-Bold'" font-size="14">1</text>
+	
+		<rect id="rect44" x="238.217" y="483.785" fill="#898756" stroke="#000000" stroke-miterlimit="10" width="20.963" height="22.076"/>
+	
+		
+			
+				<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="248.412" y1="489.343" x2="248.412" y2="503.174"/>
+			
+				<polygon points="240.232,495.97 241.697,497.334 248.41,490.11 255.125,497.334 256.59,495.97 248.41,487.174 				"/>
+			
+		
+	
+	<rect id="rect48" x="345.987" y="40.51" fill="#499345" stroke="#000000" stroke-miterlimit="10" width="22.075" height="20.962"/>
+	
+		
+			
+				<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="362.506" y1="50.705" x2="348.675" y2="50.705"/>
+			
+				<polygon points="355.879,42.525 354.515,43.99 361.738,50.703 354.515,57.418 355.879,58.883 364.675,50.703 				"/>
+			
+		
+	
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="368.092" y1="47.581" x2="375.092" y2="47.581"/>
+	<text transform="matrix(1 0 0 1 317.9902 36.9912)" font-family="'MyriadPro-Bold'" font-size="14">NORD 2</text>
+	<text transform="matrix(1 0 0 1 113.0288 104.1514)" font-family="'MyriadPro-Bold'" font-size="14">WEST 3</text>
+	<text transform="matrix(1 0 0 1 57.0688 295.0459)" font-family="'MyriadPro-Bold'" font-size="14">WEST 2</text>
+	<text transform="matrix(1 0 0 1 6.332 419.7285)" font-family="'MyriadPro-Bold'" font-size="14">WEST 1</text>
+	
+		<rect id="rect31" x="340.332" y="77.275" fill="#C6C8CE" stroke="#000000" stroke-miterlimit="10" width="14.842" height="57.051"/>
+	<text transform="matrix(1 0 0 1 288.7637 105.9912)" font-family="'MyriadPro-Bold'" font-size="14">NORD 1</text>
+	<rect id="rect32" x="309.56" y="121.94" fill="#727A73" stroke="#000000" stroke-miterlimit="10" width="31" height="21.109"/>
+	
+		<rect id="rect49" x="314.459" y="108.471" fill="#6C838C" stroke="#000000" stroke-miterlimit="10" width="20.961" height="22.077"/>
+	
+		
+			
+				<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="325.225" y1="124.99" x2="325.225" y2="111.159"/>
+			
+				<polygon points="333.404,118.363 331.939,116.999 325.227,124.222 318.512,116.999 317.047,118.363 325.227,127.159 				"/>
+			
+		
+	
+	
+		<rect id="rect19" x="251.073" y="121.468" fill="#5CACB7" stroke="#000000" stroke-miterlimit="10" width="59.046" height="35.19"/>
+	<text transform="matrix(1 0 0 1 276.3721 142.8252)" font-family="'MyriadPro-Bold'" font-size="14">19</text>
+	
+		<rect id="rect20" x="193.119" y="121.534" fill="#92C647" stroke="#000000" stroke-miterlimit="10" width="59.046" height="35.189"/>
+	<text transform="matrix(1 0 0 1 213.377 143.8252)" font-family="'MyriadPro-Bold'" font-size="14">20</text>
+	
+		<rect id="rect23" x="252.182" y="163.543" fill="#3F7F82" stroke="#000000" stroke-miterlimit="10" width="62.868" height="30.571"/>
+	<text transform="matrix(1 0 0 1 276.9121 183.9912)" font-family="'MyriadPro-Bold'" font-size="14">23</text>
+	
+		<rect id="rect22" x="193.981" y="163.872" fill="#8C6E3A" stroke="#000000" stroke-miterlimit="10" width="58.971" height="30.57"/>
+	<text transform="matrix(1 0 0 1 212.8765 183.9912)" font-family="'MyriadPro-Bold'" font-size="14">22</text>
+	
+		<rect id="rect18" x="330.543" y="163.798" fill="#D6BEB9" stroke="#000000" stroke-miterlimit="10" width="23.794" height="30.375"/>
+	
+		<rect id="rect55" x="193.319" y="209.816" fill="#4F6372" stroke="#000000" stroke-miterlimit="10" width="58.082" height="17.741"/>
+	
+		<rect id="rect26" x="193.981" y="234.511" fill="#542929" stroke="#000000" stroke-miterlimit="10" width="58.082" height="80.851"/>
+	<text transform="matrix(1 0 0 1 214.9341 279.9346)" font-family="'MyriadPro-Bold'" font-size="14">26</text>
+	<text transform="matrix(1 0 0 1 153.9951 273.9346)" font-family="'MyriadPro-Bold'" font-size="14">26</text>
+	
+		<rect id="rect21" x="137.362" y="122.284" fill="#C61E1E" stroke="#000000" stroke-miterlimit="10" width="46.361" height="71.73"/>
+	<text transform="matrix(1 0 0 1 334.0137 182.9541)" font-family="'MyriadPro-Bold'" font-size="14">18</text>
+	
+		<rect id="rect25" x="137.362" y="232.276" fill="#264D6D" stroke="#000000" stroke-miterlimit="10" width="46.361" height="83.082"/>
+	
+		<rect id="rect24" x="137.362" y="194.103" fill="#FEF100" stroke="#000000" stroke-miterlimit="10" width="46.361" height="39.078"/>
+	<text transform="matrix(1 0 0 1 151.936 218.8389)" font-family="'MyriadPro-Bold'" font-size="14">24</text>
+	<text transform="matrix(1 0 0 1 151.0269 161.5508)" font-family="'MyriadPro-Bold'" font-size="14">21</text>
+	
+		<rect id="rect50" x="126.283" y="109.045" fill="#BCC8CE" stroke="#000000" stroke-miterlimit="10" width="20.962" height="22.076"/>
+	
+		
+			
+				<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="137.05" y1="125.563" x2="137.05" y2="111.732"/>
+			
+				<polygon points="145.229,118.936 143.765,117.572 137.052,124.796 130.337,117.572 128.872,118.936 137.052,127.732 				"/>
+			
+		
+	
+	<polyline id="rect16" fill="#141959" stroke="#000000" stroke-miterlimit="10" points="288.695,270.598 320.91,270.648 
+		320.992,284.844 354.371,284.798 354.574,317.58 321.476,318.169 321.539,329.629 288.703,329.657 	"/>
+	
+		<rect id="rect33" x="261.577" y="208.261" fill="#4A725B" stroke="#000000" stroke-miterlimit="10" width="18.854" height="198.371"/>
+	<rect id="rect41" x="262.936" y="288.342" fill="#A88CA3" stroke="#000000" stroke-miterlimit="10" width="15" height="29.361"/>
+	
+		<rect id="rect34" x="193.328" y="331.38" fill="#BAD3D1" stroke="#000000" stroke-miterlimit="10" width="59.623" height="73.518"/>
+	
+		<rect id="rect37" x="204.648" y="331.176" fill="#597C7A" stroke="#000000" stroke-miterlimit="10" width="16.571" height="27.104"/>
+	
+		<rect id="rect36" x="223.29" y="361.854" fill="#A3B2BF" stroke="#000000" stroke-miterlimit="10" width="27.571" height="14.771"/>
+	
+		<rect id="rect35" x="213.341" y="384.614" fill="#C7CFD1" stroke="#000000" stroke-miterlimit="10" width="27.571" height="14.774"/>
+	
+		<rect id="rect43" x="189.451" y="340.643" fill="#93A399" stroke="#000000" stroke-miterlimit="10" width="29.086" height="13.342"/>
+	<text transform="matrix(1 0 0 1 193.1191 352.3252)" font-family="'MyriadPro-Bold'" font-size="14">P35</text>
+	
+		<rect id="rect39" x="233.698" y="359.136" fill="#829387" stroke="#000000" stroke-miterlimit="10" width="29.086" height="13.347"/>
+	<text transform="matrix(1 0 0 1 237.0752 370.1367)" font-family="'MyriadPro-Bold'" font-size="14">P33</text>
+	
+		<rect id="rect40" x="232.631" y="340.344" fill="#6F7577" stroke="#000000" stroke-miterlimit="10" width="29.086" height="13.346"/>
+	<text transform="matrix(1 0 0 1 234.6982 351.6865)" font-family="'MyriadPro-Bold'" font-size="14">P34</text>
+	
+		<rect id="rect38" x="200.211" y="391.089" fill="#6E9179" stroke="#000000" stroke-miterlimit="10" width="29.086" height="13.346"/>
+	<text transform="matrix(1 0 0 1 203.9941 402.9541)" font-family="'MyriadPro-Bold'" font-size="14">P32</text>
+	<text transform="matrix(1 0 0 1 153.4141 279.2764)" font-family="'MyriadPro-Bold'" font-size="14">25</text>
+	
+		<rect id="rect53" x="137.183" y="330.003" fill="#CEABAB" stroke="#000000" stroke-miterlimit="10" width="48.054" height="76.609"/>
+	<circle fill="#DEBDC8" stroke="#000000" stroke-miterlimit="10" cx="171.155" cy="372.154" r="9"/>
+	<rect id="rect27" x="53.47" y="316.863" fill="#B87A57" stroke="#000000" stroke-miterlimit="10" width="75.245" height="90.249"/>
+	<text transform="matrix(1 0 0 1 89 363.9912)" font-family="'MyriadPro-Bold'" font-size="14">27</text>
+	<text transform="matrix(1 0 0 1 196.7417 500.0068)" font-family="'MyriadPro-Bold'" font-size="14">SUD 2</text>
+	<text transform="matrix(1 0 0 1 307.3945 501.7656)" font-family="'MyriadPro-Bold'" font-size="14">SUD 1</text>
+	
+		<rect id="rect51" x="66.283" y="299.045" fill="#BCA7B2" stroke="#000000" stroke-miterlimit="10" width="20.962" height="22.076"/>
+	
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="77.05" y1="315.563" x2="77.05" y2="301.732"/>
+			
+				<polygon points="85.229,308.938 83.765,307.572 77.052,314.796 70.337,307.572 68.872,308.938 77.052,317.732 				"/>
+			
+		
+	
+	<rect id="rect54" x="40.876" y="431.97" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="13.271" height="32.478"/>
+	<rect id="rect52" x="29.838" y="423.49" fill="#A5A03C" stroke="#000000" stroke-miterlimit="10" width="22.076" height="20.961"/>
+	
+		<line fill="none" x1="48.525" y1="433.686" x2="32.525" y2="433.686"/>
+		
+			
+				<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="46.356" y1="433.686" x2="32.525" y2="433.686"/>
+			
+				<polygon points="39.729,425.506 38.365,426.97 45.589,433.684 38.365,440.398 39.729,441.863 48.525,433.684 				"/>
+			
+		
+	
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="357.688" y1="278.991" x2="357.688" y2="278.991"/>
+	<polygon id="rect17" fill="#A5A5B5" stroke="#5D5D5D" stroke-miterlimit="10" points="355.464,256.933 321.48,257.927 
+		321.517,270.991 288.695,270.991 288.695,209.279 355.4,208.259 	"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="321.517" y1="270.991" x2="320.992" y2="284.105"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="321.476" y1="317.781" x2="321.539" y2="328.33"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="288.695" y1="270.991" x2="288.703" y2="325.355"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="354.574" y1="314.238" x2="354.371" y2="284.063"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="320.992" y1="283.386" x2="320.91" y2="271.04"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="320.992" y1="267.991" x2="320.992" y2="267.991"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="288.169" y1="374.202" x2="354.049" y2="373.84"/>
+	<polyline id="rect15" fill="#FF0000" stroke="#000000" stroke-miterlimit="10" points="354.049,373.84 354.473,341.17 
+		321.892,341.432 321.635,329.629 321.539,329.629 288.703,329.657 288.08,330.702 288.169,374.202 	"/>
+	
+		<rect id="rect14" x="288.08" y="374.152" fill="#514848" stroke="#000000" stroke-miterlimit="10" width="66.194" height="31.396"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="288.695" y1="270.991" x2="288.703" y2="329.657"/>
+	<text transform="matrix(1 0 0 1 301.6035 394.1855)" font-family="'MyriadPro-Regular'" font-size="14">14</text>
+	<text transform="matrix(1 0 0 1 302.2715 359.4863)" font-family="'MyriadPro-Regular'" font-size="14">15</text>
+	<text transform="matrix(1 0 0 1 304.8164 304.7539)" font-family="'MyriadPro-Regular'" font-size="14">16</text>
+	<text transform="matrix(1 0 0 1 307.6035 243.3818)" font-family="'MyriadPro-Regular'" font-size="14">17</text>
+	
+		<rect id="rect42" x="266.451" y="291.825" fill="#6E7F71" stroke="#000000" stroke-miterlimit="10" width="29.086" height="13.342"/>
+	<text transform="matrix(1 0 0 1 269.0059 303.54)" font-family="'MyriadPro-Bold'" font-size="14">P36</text>
+	
+		<rect id="rect45" x="281.169" y="483.924" fill="#A38F72" stroke="#000000" stroke-miterlimit="10" width="20.962" height="22.076"/>
+	
+		
+			
+				<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="291.364" y1="489.481" x2="291.364" y2="503.313"/>
+			
+				<polygon points="283.186,496.108 284.648,497.473 291.361,490.249 298.077,497.473 299.542,496.108 291.361,487.313 				"/>
+			
+		
+	
+	<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M361.396,61.472c-0.071,16.632-0.143,33.265-0.213,49.898"/>
+	
+		<line fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" x1="374.015" y1="89.086" x2="374.015" y2="97.268"/>
+
+</svg>

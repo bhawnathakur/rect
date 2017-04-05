@@ -73,11 +73,20 @@ const mapObj = {"rectangles":[
 })
 @Injectable()
 export class DashboardDemo implements OnInit {
+
+  func2(e:any){
+   var target = e.target || e.srcElement || e.currentTarget;
+    var idAttr = target.attributes.id;
+    var value = idAttr.nodeValue;
+console.log(idAttr);
+
+}
 startdateval:any;
 str_num:any;
 mydate;
 val4;
 val5;
+shftrect:number=0;
  rem:any;
  days:any;
  today=Date.now();
@@ -127,15 +136,15 @@ httpService.fetchGetDatarectabngles().subscribe(
     for (var key in data){
       
 myArray.push(data["rect"+ii]);
+this.rectanglesArr[ii]=myArray[ii];
 ii =ii+1;
     }
+    
     console.log(myArray.length);
 
 this.rectanglesArr=myArray;
   
-    
-    //this.rectanglesArr = data;
-console.log(this.rectanglesArr[14]);
+
 
   }
 
@@ -205,14 +214,20 @@ this.svgItem[i].setAttribute("fill",this.col[i]);
   handle_int=0;             
 handleChange(e) {
    
-    
+    this.shftrect= this.shftrect+1;
     this.mapfunc1();
-
+ if(this.shftrect<8){
+ this.rectangles.push({label:this.rectanglesArr[this.val], value:""});
+ }
     //adding items to list ListboxModule
-    //this.rectangles.push({label:this.rectanglesArr[this.val], value:this.rectanglesArr[this.val]});
-   this.rectangles.push({label:this.rectanglesArr[this.val], value:"kk"});
+   
+  // this.rectangles.push({label:"lll", value:"kk"});
 this.myDate=this.myDate1+86400000*this.val;
-  
+
+ if(this.shftrect>7){
+   this.rectangles.push({label:this.rectanglesArr[this.val], value:""});
+  this.rectangles.shift(); 
+ }
 
 }
    
